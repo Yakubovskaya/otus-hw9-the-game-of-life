@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":"AAIAA,QAAQC,IAFCC","sources":["webpack://otus-hw9-the-game-of-life/./src/js/index.js"],"sourcesContent":["\nfunction sumOfNumbers(x, y) {\n  return x + y;\n}\nconsole.log(sumOfNumbers(2, 5));\n"],"names":["console","log","x"],"sourceRoot":""}
